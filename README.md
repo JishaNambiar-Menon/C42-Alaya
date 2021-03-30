@@ -1,2 +1,1 @@
-# C42-Alaya
-Monkey Runner Game
+# C42-Monkey-Go-Happy
